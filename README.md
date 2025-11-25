@@ -56,9 +56,6 @@ Este análisis proporciona información valiosa para:
 - Los tipos de ejercicio con mayor gasto energético fueron: **HIIT (~1650 kcal)**, seguido de fuerza y cardio.
 - El clustering permitió identificar perfiles de salud diferenciados y patrones asociados a riesgo metabólico.
 
----
-
-
 Este README proporciona un resumen conciso y claro del proyecto, sus hallazgos y su relevancia.
 
 ---
